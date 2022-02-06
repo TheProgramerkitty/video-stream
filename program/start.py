@@ -75,7 +75,7 @@ async def start_(client: Client, message: Message):
                 [InlineKeyboardButton("Cᴏᴍᴍᴀɴᴅs 📚", callback_data="cbcmds"),
                 [
                     InlineKeyboardButton(
-                        "Dᴇᴠʟᴏᴘᴇʀ 👨‍💻", url="t.me/Attitude_king_vj"
+                        "Dᴇᴠʟᴏᴘᴇʀ 👨‍💻", url="t.me/Attitude_king_vj"),
                 ],
                 [
                     InlineKeyboardButton(
